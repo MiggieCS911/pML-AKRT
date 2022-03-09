@@ -395,7 +395,7 @@ st.write('----------------------------------------------------------------------
 
 # sidebar
 st.sidebar.header('pML-AKRT')
-txt2 = '''This is a beta-version. The models were trained and tested on data from [SEA-AKI study](https://www.sciencedirect.com/science/article/abs/pii/S088394412100085X). This data was provided by Dr. Nattachai Srisawat. All models were externally validated with Vajira Acute Kidney Injury Dataset.
+txt2 = '''The models were trained and tested on data from [SEA-AKI study](https://www.sciencedirect.com/science/article/abs/pii/S088394412100085X). This data was provided by Dr. Nattachai Srisawat. All models were externally validated with Vajira Acute Kidney Injury Dataset.
 The complete experiment method and results have been prepared and will be published soon. However, The performance of models is partially reported below. The model construction, experiment, and web development have been done by Dr. Wanjak Pongsittisak and [VBaM4H](https://vbam4h.com). 
 For more information or any suggestion, don't hesitate to get in touch with [us](mailto:wanjak@nmu.ac.th).''' 
 st.sidebar.write(txt2)
