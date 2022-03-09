@@ -372,7 +372,7 @@ ans_lr_prob = fit_lr_prob(patient)
 
 
 #result
-if st.button('Click to Calculated', key = 'predict button'):
+if st.button('Click to Calculate', key = 'predict button'):
     st.header('Results')
     st.subheader('XGBoost model')
 #     st.write('Predict AKRT: ', ans_xgb)
